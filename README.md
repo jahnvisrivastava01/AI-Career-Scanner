@@ -94,13 +94,13 @@ The application generates a radar chart to visually represent:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-career-personality-scanner.git
+git clone https://github.com/YOUR_USERNAME/AI-Career-Scanner.git
 ```
 
 Move into project folder:
 
 ```bash
-cd ai-career-personality-scanner
+cd ai-career-scanner
 ```
 
 Install dependencies:
@@ -120,7 +120,7 @@ python main.py
 # 📁 Project Structure
 
 ```text
-ai-career-personality-scanner/
+ai-career-scanner/
 │
 ├── main.py
 ├── career_data.csv
